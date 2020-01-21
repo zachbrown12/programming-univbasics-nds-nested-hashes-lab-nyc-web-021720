@@ -13,9 +13,9 @@ def assembled_aoh
   infinite = [
     DON_G
     JOELLE_VD
-PAT_M =  
-KATE_G = 
-BRUCE_G =
+    PAT_M 
+    KATE_G
+    BRUCE_G
     
     ]
   
